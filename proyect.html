@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Encuesta</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+
+    <header>
+        <h1 id="title">Encuesta de Satisfacción</h1>
+        <p id="description">Por favor, completa este formulario para ayudarnos a mejorar nuestros servicios</p>
+    </header>
+
+    <main>
+        <form id="survey-form" action="mailto:techandseaca@gmail.com" method="POST" enctype="text/plain">
+            <!-- Nombre -->
+            <label id="name-label" for="name">Nombre:</label>
+            <input type="text" id="name" name="name" placeholder="Ingresa tu nombre" required>
+
+            <!-- Email -->
+            <label id="email-label" for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Ingresa tu email" required>
+
+            <!-- Número -->
+            <label id="number-label" for="number">Edad:</label>
+            <input type="number" id="number" name="number" placeholder="Ingresa tu edad" min="18" max="100" required>
+
+            <!-- Desplegable -->
+            <label for="dropdown">¿Cómo calificas nuestro servicio?</label>
+            <select id="dropdown" name="rating">
+                <option value="excelente">Excelente</option>
+                <option value="bueno">Bueno</option>
+                <option value="regular">Regular</option>
+            </select>
+
+            <!-- Botones de Radio -->
+            <p>¿Recomendarías nuestro servicio?</p>
+            <label><input type="radio" name="recommend" value="si" required> Sí</label>
+            <label><input type="radio" name="recommend" value="no" required> No</label>
+
+            <!-- Casillas de verificación -->
+            <p>¿Qué características te gustaron más?</p>
+            <label><input type="checkbox" name="features" value="rapidez"> Rapidez</label>
+            <label><input type="checkbox" name="features" value="precio"> Precio</label>
+            <label><input type="checkbox" name="features" value="atención"> Atención al cliente</label>
+
+            <!-- Comentarios -->
+            <label for="comments">Comentarios adicionales:</label>
+            <textarea id="comments" name="comments" rows="4" placeholder="Escribe tus comentarios aquí..."></textarea>
+
+            <!-- Botón de envío -->
+            <button type="submit" id="submit">Enviar</button>
+        </form>
+    </main>
+
+</body>
+</html>
