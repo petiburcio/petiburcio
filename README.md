@@ -71,5 +71,3 @@ Si necesitas un sistema web para tu negocio, soporte técnico especializado, com
 [![Correo](https://shields.io)](mailto:pedroafm@mail.com)
 
 
-
-*(Recuerda reemplazar `TU_USUARIO_AQUÍ`, `TU_NÚMERO_AQUÍ` y `tu-correo@email.com` con tus enlaces reales antes de guardar).*
