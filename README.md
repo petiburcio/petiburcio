@@ -65,7 +65,6 @@ Además del sector IT, gestiono activamente operaciones de **comercio P2P** de c
 Si necesitas un sistema web para tu negocio, soporte técnico especializado, componentes de calidad para tus equipos, o estás interesado en el sector Fintech/P2P, hablemos de inmediato a través de cualquiera de mis canales oficiales:
 
 * 📸 **Instagram:** [petiburcio](https://instagram.com/petiburcio)
-* ✈️ **Telegram:** [@Petiburcio](https://t.me/Petiburcio)
-* 💼 **LinkedIn:** [Pedro A Fernández M](https://www.linkedin.com/in/pedrofermer/)
+* ✈️ **Telegram:** [Petiburcio](https://t.me/Petiburcio)
 * 📧 **Correo Electrónico:** [Pedro Fernández](mailto:pedroafernandezm@gmail.com)
 
