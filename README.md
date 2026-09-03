@@ -64,13 +64,8 @@ Además del sector IT, gestiono activamente operaciones de **comercio P2P** de c
 
 Si necesitas un sistema web para tu negocio, soporte técnico especializado, componentes de calidad para tus equipos, o estás interesado en el sector Fintech/P2P, hablemos de inmediato a través de cualquiera de mis canales oficiales:
 
-[![Instagram](https://shields.io)](https://instagram.com/petiburcio)
-[![WhatsApp](https://shields.io)](https://wa.me/584144855446)
-[![Telegram](https://shields.io)](https://t.me/Petiburcio)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-<a href="mailto:pedroafernandezm@gmail.com"><img src="https://shields.io" alt="Correo"></a>
-* 📸 **Instagram:** (https://instagram.com/petiburcio)
-* ✈️ **Telegram:** (https://t.me/Petiburcio)
-* 💼 **LinkedIn:** (https://linkedin.com/pedrofermer)
-* 📧 **Correo Electrónico:** (mailto:pedroafernandezm@gmail.com)
+* 📸 **Instagram:** [petiburcio](https://instagram.com/petiburcio)
+* ✈️ **Telegram:** [@Petiburcio](https://t.me/Petiburcio)
+* 💼 **LinkedIn:** [Pedro Antonio Fernández Merchán](https://linkedin.com)
+* 📧 **Correo Electrónico:** [Pedro Fernandez](mailto:pedroafernandezm@gmail.com)
 
