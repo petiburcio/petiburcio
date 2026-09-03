@@ -66,6 +66,6 @@ Si necesitas un sistema web para tu negocio, soporte técnico especializado, com
 
 * 📸 **Instagram:** [petiburcio](https://instagram.com/petiburcio)
 * ✈️ **Telegram:** [@Petiburcio](https://t.me/Petiburcio)
-* 💼 **LinkedIn:** [Pedro A Fernández M](www.linkedin.com/in/pedrofermer/)
+* 💼 **LinkedIn:** [Pedro A Fernández M](https://www.linkedin.com/in/pedrofermer/)
 * 📧 **Correo Electrónico:** [Pedro Fernández](mailto:pedroafernandezm@gmail.com)
 
