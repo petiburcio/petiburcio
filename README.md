@@ -36,7 +36,7 @@ Mi enfoque principal es fusionar el entendimiento del hardware, la estética vis
 ### 📊 Mis Proyectos Destacados
 
 #### 🚀 **ERP / SaaS Operativo & FinTech** 
-<img src="https://vercel.app" alt="Estado: En Desarrollo">
+* **Estado del Proyecto:** 🚧 *En Desarrollo Activo*
 
 Estoy desarrollando una plataforma integral de gestión diseñada para automatizar y centralizar las operaciones de un profesional independiente y comerciante digital.
 
