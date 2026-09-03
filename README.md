@@ -68,5 +68,5 @@ Si necesitas un sistema web para tu negocio, soporte técnico especializado, com
 [![WhatsApp](https://shields.io)](https://wa.me/584144855446)
 [![Telegram](https://shields.io)](https://t.me/Petiburcio)
 [![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Correo](https://shields.io)](mailto:pedroafm@mail.com)
+<a href="mailto:pedroafernandezm@gmail.com"><img src="https://shields.io" alt="Correo"></a>
 
