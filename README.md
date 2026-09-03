@@ -69,4 +69,8 @@ Si necesitas un sistema web para tu negocio, soporte técnico especializado, com
 [![Telegram](https://shields.io)](https://t.me/Petiburcio)
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 <a href="mailto:pedroafernandezm@gmail.com"><img src="https://shields.io" alt="Correo"></a>
+* 📸 **Instagram:** (https://instagram.com/petiburcio)
+* ✈️ **Telegram:** (https://t.me/Petiburcio)
+* 💼 **LinkedIn:** (https://linkedin.com/pedrofermer)
+* 📧 **Correo Electrónico:** (mailto:pedroafernandezm@gmail.com)
 
